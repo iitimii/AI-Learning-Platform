@@ -1,0 +1,11 @@
+streamlit 
+google-generativeai 
+pillow 
+requests 
+plotly 
+pandas
+langchain 
+langchain-google-genai
+gTTS 
+markdown 
+beautifulsoup4
