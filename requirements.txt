@@ -9,3 +9,4 @@ langchain-google-genai
 gTTS 
 markdown 
 beautifulsoup4
+dotenv
